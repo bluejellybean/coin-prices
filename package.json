@@ -1,0 +1,12 @@
+{
+  "name": "coin-prices",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Alex David Barkell",
+  "email": "alexbarkell@gmail.com",
+  "licence": "GPLv2",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "4.0.1"
+  }
+}
